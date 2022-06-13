@@ -285,7 +285,7 @@ class QuestionGenerator:
         ).to(self.device)
 
     def _get_ranked_qa_pairs(
-        self, generated_questions: List[str], qg_answers: List[str], scores, num_questions: int = 10
+        self, generated_questions: List[str], qg_answers: List[str], scores, num_questions: int = 20
     ) -> List[Mapping[str, str]]:
         """Ranks generated questions according to scores, and returns the top num_questions examples.
         """
