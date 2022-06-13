@@ -1,0 +1,65 @@
+OBJECTIVE
+
+To utilize my expertise in programming, configuration and troubleshooting of computer-related issues to obtain maximum performance of the organization
+
+
+PROFILE SUMMARY
+
+• Great configuration management
+• Working experience in multi-threaded environment
+• Deep understanding of L2/L3 protocols
+
+EDUCATION
+
+M.S. in Computer Applications, 2006
+Drexel University, City, State
+
+B.S. in Computer Engineering, 2002
+Drexel University, City, State
+
+EMPLOYMENT HISTORY
+
+Computer Network Engineer, 2007 – Present
+Company Name
+
+Responsibilities:
+
+• Supervised the configuration of switches, routers and platforms.
+• Utilized C++ in implementing uniform protocols.
+• Enhanced the architectural structure of the DBM archive unit.
+• Studied and tested the flow of routing protocols using real-time applications.
+• Troubleshot incompatibility issues involving AliveChat Software and MS Office.
+
+Computer Engineer, 2006 – 2007
+Company Name
+
+Responsibilities:
+
+• Tested and debugged software systems.
+• Coordinated with the service technician concerning reported system deficiency and acted on those accordingly.
+• Reviewed schematics, designs and specifications to ensure conformity with the DOE standards.
+• Re-programmed multi-threaded systems using Linux applications.
+• Designed networks according to provided specifications.
+• Recommended the use of Automated software machine which resulted to the 85% output of the company.
+
+RESEARCH
+
+Automated & Systematic IT Auditing
+
+TRAINING
+
+Accreditation Board for Engineering and Technology
+
+AWARD
+
+Most Outstanding Computer Engineer, 2005
+
+PROFESSIONAL MEMBERSHIP
+
+Association of Certified Computer Specialists
+
+SKILLS
+
+Knowledgeable in using MS Office, Linux, UNIX, Open Office
+Superior debugging, configuration and troubleshooting skills
+Strong familiarity with programming languages
