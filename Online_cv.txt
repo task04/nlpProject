@@ -1,65 +1,40 @@
-OBJECTIVE
-
-To utilize my expertise in programming, configuration and troubleshooting of computer-related issues to obtain maximum performance of the organization
-
-
-PROFILE SUMMARY
-
-• Great configuration management
-• Working experience in multi-threaded environment
-• Deep understanding of L2/L3 protocols
-
+HUONG (LUCY) YANG
+Box 0000, 1 Chapin Way, Northampton, MA 01063
+978.937.2222 | huyang@smith.edu
 EDUCATION
-
-M.S. in Computer Applications, 2006
-Drexel University, City, State
-
-B.S. in Computer Engineering, 2002
-Drexel University, City, State
-
-EMPLOYMENT HISTORY
-
-Computer Network Engineer, 2007 – Present
-Company Name
-
-Responsibilities:
-
-• Supervised the configuration of switches, routers and platforms.
-• Utilized C++ in implementing uniform protocols.
-• Enhanced the architectural structure of the DBM archive unit.
-• Studied and tested the flow of routing protocols using real-time applications.
-• Troubleshot incompatibility issues involving AliveChat Software and MS Office.
-
-Computer Engineer, 2006 – 2007
-Company Name
-
-Responsibilities:
-
-• Tested and debugged software systems.
-• Coordinated with the service technician concerning reported system deficiency and acted on those accordingly.
-• Reviewed schematics, designs and specifications to ensure conformity with the DOE standards.
-• Re-programmed multi-threaded systems using Linux applications.
-• Designed networks according to provided specifications.
-• Recommended the use of Automated software machine which resulted to the 85% output of the company.
-
-RESEARCH
-
-Automated & Systematic IT Auditing
-
-TRAINING
-
-Accreditation Board for Engineering and Technology
-
-AWARD
-
-Most Outstanding Computer Engineer, 2005
-
-PROFESSIONAL MEMBERSHIP
-
-Association of Certified Computer Specialists
-
+Smith College, Northampton, MA
+Bachelor of Science, Engineering Science, emphasis in Mechanics, May 2015 GPA: 3.60
+Relevant Coursework: Engineering Design Clinic, Simulation and Modeling, Signals and Systems, Technological Risk
+Assessment, Statistics for Engineers, Mechanical Vibrations, Failure Analysis, Introduction to Hydrosystems Engineering
 SKILLS
-
-Knowledgeable in using MS Office, Linux, UNIX, Open Office
-Superior debugging, configuration and troubleshooting skills
-Strong familiarity with programming languages
+Technical: MATLAB, Minitab, Neural Networks, ARIMA modeling, familiar with C programming and AutoCAD
+Languages: Fluent Spanish; Conversational Portuguese
+EXPERIENCE
+Engineering Design Clinic, Smith College Picker Engineering Program (Sept 2014 - May 2015)
+Project Sponsor: Kollmorgen Electro-Optical, Northampton, MA
+ Researched current Lean Design practices in engineering industries
+ Worked with 3 Design Clinic team members to analyze design processes, identify inefficiencies and
+recommended improvements based on Lean Design principles
+ Co-managed $5,000 project budget, ensured all project deliverables were completed on-time
+ Collaborated extensively with Kollmorgen employees and management
+ Developed and presented project deliverables and final recommendations to project sponsor staff
+Smith College Picker Engineering Program – Research Intern (June 2013 - May 2014)
+ Developed workshop for middle and high school teachers to teach about engineering design and ways to apply in
+engineering principles in classrooms
+ Developed engineering activities for inclusion in novel to introduce engineering concepts to students grades 7-12
+ Co-authored ASEE conference paper and poster
+Engineering Laboratory of Dr. Jack Jones, Smith College – Teaching Assistant (Sept 2012 - May 2013)
+ Prepared materials for professor and students for use in lab sessions
+ Assisted professor in answering questions and resolving issues during the laboratory
+Curriculum Planning Committee, Smith College – Student Member (Sept 2012 - May 2013)
+ Organized logistics for and participated in meetings with faculty
+ Served as liaison between committee and student body
+ACTIVITIES AND LEADERSHIP
+Society of Women Engineers (SWE) – Smith College Student Chapter (2013 - present)
+Co-President (2014 - 2015); Vice President & Technology Director (2013 - 2014)
+ Served as liaison between Smith College faculty and administrators and SWE chapter members
+ Applied for grant and Student Government Association funding
+ Planned engineering outreach events
+Engineering World Health – Smith College Student Chapter (2013 - 2014)
+Vice-President
+ Aided with chartering of Smith College chapter
