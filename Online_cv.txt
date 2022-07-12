@@ -1,45 +1,40 @@
-Barbara J. Hawkins
-Computer Engineer Specializing in Embedded Systems
-barbara.hawkins@gmail.com
-(513) 952-5653
-Summary of Qualifications
-Detail-oriented computer engineer with 5+ years of expertise working with embedded systems, artificial intelligence, machine learning, and automation technologies. Increased multiply-accumulate performance on proprietary DSP algorithms by 5% through system and chip analysis revamp. Seeking to leverage first-hand experience with driverless car technology and integrated systems to become the lead computer engineer at Alset Automotive Technologies.
+John Duncan
+john@duncan.co.uk
+
+Personal Statement
+
+Empathetic support worker with 4+ years of experience in providing both residential home and supported living care. Experienced in dealing with the elderly as well as youth with emotional and behavioural problems. Proven track record of running group sessions for up to 12 patients that resulted in improvement on their self-reported mood and outlook. Independently created health and care plans for over 400 patients. Seeking to apply proven skills to a more challenging role at the Dustin Home for the Youth.
 Work Experience
-Embedded Systems Computer Engineer
-December 2016–July 2019
-Artificial Mobility Systems & Design, Cincinnati, OH
-Key Qualifications & Responsibilities
-Oversaw design, development, and upgrades to system-on-chip devices and Internet-of-Things (IoT) electronics.
-Developed testing methods of prototypes to be used in driverless vehicles, AI assistants, and other commercial endeavors.
-Supervised attributes of microprocessor and microcontroller design to ensure performance, accuracy, and cost-effectiveness.
-Key Achievements
-Located 5 incompatibility issues overlooked by QA team before products hit the market.
-Increased multiply-accumulate performance on proprietary DSP algorithms by 5% through analysis overhaul.
-AI / ML Computer Engineer
-June 2014–November 2016
-IoT Research Associates of Ohio, Cincinnati, OH
-Key Qualifications & Responsibilities
-Developed artificial intelligence and machine learning products, software, and other solutions for commercial, industrial, and educational purposes.
-Tweaked deep-learning systems and associated algorithms for better natural language processing and delivery.
-Designed and conducted research experiments to test theories for improved performance.
+Support Worker
+
+Mind Support House, Dulwich, London
+
+September 2018—Present
+
+Providing residential home care to up to 32 young adults at a time with emotional and behavioural issues, staying from a week to 3 months.
+Ran group sessions for up to 12 patients that resulted in improvement on their self-reported mood and outlook. 
+Conducted intake interviews and created health and care plans based on them for 400+ patients.
+Responsible for liaising with the families and preparing an easier reentry into society, improved on self-report measures 3 and 6 months after release by 15%.
+Responded to several crisis situations with positive outcomes.
+Support Worker 
+
+Little Oyster Residential Home, Minster-on-Sea
+
+January 2016—September 2018
+
+Provided supported living care to 80 elderly men and women, assisting with everyday needs and problems, medication, treatment and bathing.
+Drafted schedules for 25 families that allowed more sustained care and assistance for the clients.
+Observed and recorded patient condition and reported it while assisting during appointments.
 Education
-Bachelor of Science in Computer Engineering Technology
-Old Dominion University, Norfolk, VA
-Graduation: 2014
-Relevant Coursework: Computer Engineering Fundamentals, Wireless Communications & Networking, Computational Algorithms, Natural Language Processing, Internet-of-Things Devices, Data Protection & Security, Software and Hardware Engineering.
-Key Skills
-Artificial Intelligence (AI) & Machine Learning (ML)
-Deep Learning for Java (DL4J) toolkit
-Computational Research & Development
-Classification Algorithms
-Edge Computing
-Teamwork
-Certifications
-Certified Master of Electrical and Computer Engineering (CSU)
-Certified Information Systems Security Professional (CISSP)
-Memberships
-Association for Computing Machinery (ACM)
-Association for the Advancement of Artificial Intelligence (AAAI)
-Association for Women in Computing (AWC)
-Languages
-Greek: Basic Conversational Proficiency
+NVQ Level 3 Diploma in Health and Social Care (QCF), 2016
+
+Central College, Dartford, UK
+4 GCSEs including Mathematics and English, June 2014
+
+Central School, Dartford, UK
+Skills
+Mental Health Support
+Residential Care
+Supported Living
+Care Planning
+Group Sessions
